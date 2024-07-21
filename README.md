@@ -9,7 +9,7 @@
       font-color: #30fc03;
       width: 80%;
       max-width: 400px;
-    }
+        }
 
     label {
       display: block;
